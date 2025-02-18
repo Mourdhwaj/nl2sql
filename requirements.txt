@@ -1,0 +1,16 @@
+langchain-huggingface
+huggingface_hub
+transformers
+accelerate
+bitsandbytes
+langchain
+ipykernel
+langchain-groq
+pyodbc
+langchain-community
+pymssql
+chromadb
+langgraph
+langchain-ollama
+faiss-cpu
+streamlit
